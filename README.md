@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 I'm crwen
+- 🌱 I’m interested in Hard && interesting things, now I'm learning React.
+- 🍥 Language used: Java, Rust, Golang, Python.
+- 📫 How to reach me: crwenassert@foxmail.com
+- 📝 Blog: https://blog.crwen.top/
+
+
+👋 Open to job opportunities in the field of Software Engineering.
+
