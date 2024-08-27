@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 I'm crwen
-- 🌱 I’m interested in Hard && interesting things, now I'm learning React.
+- 👋 I'm crwen, I'm looking for a job
+- 🌱 I’m interested in Hard && interesting things
 - 🍥 Language used: Java, Rust, Golang, Python.
 - 📫 How to reach me: crwenassert@foxmail.com
-- 📝 Blog: https://blog.crwen.top/
+- 📝 Blog: https://dev.crwen.top/zh/
 
 
 👋 Open to job opportunities in the field of Software Engineering.
